@@ -1,0 +1,58 @@
+﻿{
+  "filters": [
+    {
+      "name": "Yoga",
+      "image": "'./src/img/ic_yoga.png'"
+    },
+    {
+      "name": "Upper Body",
+      "image": "'./src/img/ic_upper_body.png'"
+    },
+    {
+      "name": "Lower Body",
+      "image": "'./src/img/ic_lower_body.png'"
+    },
+    {
+      "name": "Dance",
+      "image": "'./src/img/ic_dance.png'"
+    },
+    {
+      "name": "Yoga",
+      "image": "'./src/img/ic_yoga.png'"
+    }
+  ],
+  "exercices": [
+    {
+      "name": "Corrida",
+      "image": "img/running.png",
+      "calories": 400,
+      "time": 30,
+      "weight": 52,
+      "when": ""
+    },
+    {
+      "name": "Bicicleta",
+      "image": "img/cycling.png",
+      "calories": 630,
+      "time": 40,
+      "weight": 52,
+      "when": "today"
+    },
+    {
+      "name": "Musculação",
+      "image": "img/bodybuilding.png",
+      "calories": 950,
+      "time": 60,
+      "weight": 52,
+      "when": ""
+    },
+    {
+      "name": "Yoga",
+      "image": "img/yoga.png",
+      "calories": 200,
+      "time": 80,
+      "weight": 52,
+      "when": "yesterday"
+    }
+  ]
+}
